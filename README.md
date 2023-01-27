@@ -4,7 +4,7 @@
 
 ## :rocket: Deploy
 
-[Login Registration](https://loginregistrationpage.netlify.app/)
+[Login and Registration Page](https://loginregistrationpage.netlify.app/)
 
 ## :memo: Getting started
 
