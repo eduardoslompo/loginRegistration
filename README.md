@@ -1,6 +1,6 @@
-## :calendar: _Planner App built in JavaScript - CONSTRUCTION_ :calendar:
+## :calendar: _Login and Registration Page_ :calendar:
 
-![Login Registration](https://raw.githubusercontent.com/eduardoslompo/loginRegistration/master/assets/imgs/Gif.gif)
+![Login and Registration Page](https://raw.githubusercontent.com/eduardoslompo/loginRegistration/master/assets/imgs/Gif.gif)
 
 ## :rocket: Deploy
 
